@@ -73,7 +73,7 @@ headers to this very site's nginx config as part of shipping this tool
 
 Free to use, no license restrictions (MIT). If it saved you time, a
 pay-what-you-want tip is appreciated but never required:
-https://buy.stripe.com/PLACEHOLDER
+https://buy.stripe.com/bJe7sLgKBgPZ1j1g8g1VK06
 
 ## License
 
